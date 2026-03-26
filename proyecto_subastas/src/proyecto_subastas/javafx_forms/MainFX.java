@@ -31,7 +31,7 @@ public class MainFX extends Application {
         ventana.show();
     }
 
-    // ── ESCENA: INICIO DE SESIÓN ──────────────────────────────────────────────
+    //INICIO DE SESIÓN
 
     private Scene crearEscenaLogin() {
 
@@ -92,7 +92,7 @@ public class MainFX extends Application {
         return new Scene(raiz, 380, 310);
     }
 
-    // ── ESCENA: REGISTRO DE CLIENTES ──────────────────────────────────────────
+    // REGISTRO DE CLIENTES
 
     private Scene crearEscenaRegistro() {
 
